@@ -1,0 +1,349 @@
+---------------------------------------------------------------------------------
+-----------------ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴠɪᴘ sᴄʀɪᴘᴛ----------------------------
+---------------------ᴍᴀᴋᴇ ʙʏ ᴍʀ .ai---------------------------------
+-------------------------- Royale---------------------------------------
+--------------------------------ᴏᴘ---------------------------------------------
+Date = "20600106"
+date = os.date("%Y%m%d")
+if date >= Date then
+print([[⚠️ SCRIPT EXPIRED ⚠️ ]])
+return
+end
+----------------------------------------------------------------------------------------
+userpassword = gg.prompt({"lll• ClashServerLua  Pᴀssᴡᴏʀᴅ •lll"})
+password = {"1212"}
+isTrue = false
+for a57 = 1, #password do
+if userpassword[1] == password[a57] then
+isTrue = true
+end
+end
+if isTrue == true then
+else
+gg.alert("lll•😡⚠️Wʀᴏɴɢ Pᴀssᴡᴏʀᴅ⚠️😡•lll")
+os.exit()
+end
+----------------------------------------------------------------------------------------
+if gg.isPackageInstalled("net.infinity.royale") then
+else
+gg.alert("lll•😍⚠️ Usᴇ ᴍʏ Master Royale Infinity Script ⚠️😍•lll")
+os.exit()
+end
+----------------------------------------------------------------------------------------
+gg["sleep"]("100")
+gg["toast"]("\n☬■□□□□□□□□□10% •❄️https://t.me/ClashServerlua❄️•")
+gg["sleep"]("100")
+gg["toast"]("\n☬■■□□□□□□□□20% •❄️https://t.me/ClashServerlua❄️•")
+gg["sleep"]("100")
+gg["toast"]("\n☬■■■□□□□□□□30% •❄️https://t.me/ClashServerlua❄️•")
+gg["sleep"]("100")
+gg["toast"]("\n☬■■■■□□□□□□40% •❄️https://t.me/ClashServerlua❄️•")
+gg["sleep"]("100")
+gg["toast"]("\n☬■■■■■□□□□□50% •❄️https://t.me/ClashServerlua❄️•")
+gg["sleep"]("100")
+gg["toast"]("\n☬■■■■■■□□□□60% •❄️https://t.me/ClashServerlua❄️•")
+gg["sleep"]("100")
+gg["toast"]("\n☬■■■■■■■□□□70% •❄️https://t.me/ClashServerlua❄️•")
+gg["sleep"]("100")
+gg["toast"]("\n☬■■■■■■■■□□80% •❄️https://t.me/ClashServerlua❄️•")
+gg["sleep"]("100")
+gg["toast"]("\n☬■■■■■■■■■□90% •❄️https://t.me/ClashServerlua❄️•")
+gg["sleep"]("100")
+gg["toast"]("\n☬■■■■■■■■■■100% •❄️https://t.me/ClashServerlua❄️•")
+----------------------------------------------------------------------------------------
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😘•🅻︎🄾🄰🄳🄸🄽🄶•😘•❄️lll")
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😘•🅻︎🅾︎🄰🄳🄸🄽🄶•😘•❄️lll")
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😘•🅻︎🅾︎🅰︎🄳🄸🄽🄶•😘•❄️lll")
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😘•🅻︎🅾︎🅰︎🅳︎🄸🄽🄶•😘•❄️lll")
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😘•🅻︎🅾︎🅰︎🅳︎🅸︎🄽🄶•😘•❄️lll")
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😘•🅻︎🅾︎🅰︎🅳︎🅸︎🅽︎🄶•😘•❄️lll")
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😘•🅻︎🅾︎🅰︎🅳︎🅸︎🅽︎🅶︎•😘•❄️lll")
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😘•🅻︎🅾︎🅰︎🅳︎🅸︎🅽︎🅶︎•😘•❄️lll")
+----------------------------------------------------------------------------------------
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😍•🆆︎🄴🄻🄲🄾🄼🄴•😍•❄️lll")
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😍•🆆︎🅴︎🄻🄲🄾🄼🄴•😍•❄️lll")
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😍•🆆︎🅴︎🅻︎🄲🄾🄼🄴•😍•❄️lll")
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😍•🆆︎🅴︎🅻︎🅲︎🄾🄼🄴•😍•❄️lll")
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😍•🆆︎🅴︎🅻︎🅲︎🅾︎🄼🄴•😍•❄️lll")
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😍•🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🄴•😍•❄️lll")
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😍•🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🅴︎•😍•❄️lll")
+gg["sleep"]("100")
+gg["toast"]("\nlll❄️•😍•🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🅴︎•😍•❄️lll")        
+----------------------------------------------------------------------------------------
+gg["sleep"]("200")
+gg.alert("          lll•••❄️༺❯•@llllllll91•❮༻❄️•••lll\n  ●▬▬▬▬▬▬▬▬▬❴✪✪❵▬▬▬▬▬▬▬▬▬●\n  ❄️༺❯•🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🅴︎•🆃︎🅾︎🅾︎🅿︎•🆂︎🅲︎🆁︎🅸︎🅿︎🆃︎\n  ❄️༺❯•Master Royale Infinity script🅴︎\n  ❄️༺❯•🅼︎🅰︎🅺︎🅴︎•@llllllll91\n  ❄️༺❯•ClashServer 0.22.1 ❄️\n  ❄️༺❯•ClashServerLua\n  ❄️༺❯•Clash Server Video \n  ❄️༺❯•🅾︎🆆︎🅽︎🅴︎🆁︎➪@llllllll91\n  ●▬▬▬▬▬▬▬▬▬❴✪✪❵▬▬▬▬▬▬▬▬▬●")
+----------------------------------------------------------------------------------------
+gg["sleep"]("200")
+gg.alert("          lll•••❄️༺❯•@llllllll91•❮༻❄️•••lll\n  ●▬▬▬▬▬▬▬▬▬❴✪✪❵▬▬▬▬▬▬▬▬▬●\n  ❄️༺❯•❄️•••🅶🅶••🆂🅴🆃🆃🅸🅽🅶•••❄️•❮༻❄️\n  •⚙️🅼︎🅴︎🅼︎🅾︎🆁︎🆈︎=🅰︎🅻︎🅻︎•🅶︎🆁︎🅴︎🅴︎🅽︎+🆁︎🅴︎🅳︎\n  •⚙️🅷︎🅸︎🅳︎🅴︎•🅶︎🅰︎🅼︎🅴︎•Master Royale Infinity =2+3\n  •⚙️🅵︎🆁︎🅴︎🅴︎🆉︎🅴︎•🅸︎🅽︎🆃︎🅴︎🆁︎🆅︎🅰︎🅻︎=0•🆀︎🆂︎\n  •⚙️🅳︎🅰︎🆃︎🅰︎•🅸︎🅽︎•🆃︎🅷︎🅴︎•🆁︎🅰︎🅼︎=🅽︎🅾︎\n  •⚙️Master Royale Infinity script•2\n  ●▬▬▬▬▬▬▬▬▬❴✪✪❵▬▬▬▬▬▬▬▬▬●")
+----------------------------------------------------------------------------------------
+gg.alert("Welcome to the Clash😘script https://t.me/ClashServerlua")
+function HOME()
+SN = gg.choice({
+"Activate the Infinity💥+some cards Infinity💥+ Stop the electric dragon😉of stopping the game)",  
+"Super💥speed💥cards+Infinity elixir💥+some cards speed (One time activation)",
+   "Tower14💥(in-match)",
+   "Tower13💥(in-match)",
+   "Tower12💥(in-match)",
+   "Tower11💥(in-match)",
+   "Tower10💥(in-match)",
+   "Tower9💥(in-match)",
+   "Tower8💥(in-match)",
+   "Tower7💥(in-match)",
+   "Tower6💥(in-match)",
+   "Tower5💥(in-match)",
+   "Tower4💥(in-match)",
+   "Tower3💥(in-match)",
+   "Tower2💥(in-match)",
+   "Tower1💥(in-match)",
+   
+"🚪Exit🚪",
+	 }, nil, "Clash Diamond Master Royale Infinity😍😘join https://t.me/ClashServerlua")
+if SN == nil then else
+if SN==1 then F1() end
+if SN==2 then F2() end
+if SN==3 then F3() end
+if SN==4 then F4() end
+if SN==5 then F5() end
+if SN==6 then F6() end
+if SN==7 then F7() end
+if SN==8 then F8() end
+if SN==9 then F9() end
+if SN==10 then F10() end
+if SN==11 then F11() end
+if SN==12 then F12() end
+if SN==13 then F13() end
+if SN==14 then F14() end
+if SN==15 then F15() end
+if SN==16 then F16() end
+if SN==17 then Exit() end
+end 
+  ClashServer = -1
+end
+
+
+function F1()
+gg.searchNumber("281;1886610733", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(400, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("90000", gg.TYPE_DWORD)
+gg.processResume()
+gg.processResume()
+gg.clearResults()
+gg.searchNumber("26;1,100;8,000;1", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(5000, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+
+function F2()
+gg.searchNumber("900", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(5000, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("30", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.searchNumber("700", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(5000, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("30", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.searchNumber("١٦٠٠;١٠٦٥٣٥٣٢١٦;١٠٥٧٨٠٣٤٦٩", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(5000, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+function F3()
+gg.processResume()
+gg.searchNumber("9538", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+function F4()
+gg.processResume()
+gg.searchNumber("8702", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+function F5()
+gg.processResume()
+gg.searchNumber("7942", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+function F6()
+gg.processResume()
+gg.searchNumber("7220", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+function F7()
+gg.processResume()
+gg.searchNumber("6764", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+function F8()
+gg.processResume()
+gg.searchNumber("6346", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+function F9()
+gg.processResume()
+gg.searchNumber("5966", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+function F10()
+gg.processResume()
+gg.searchNumber("5586", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+function F11()
+gg.processResume()
+gg.searchNumber("5244", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+function F12()
+gg.processResume()
+gg.searchNumber("4902", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+function F13()
+gg.processResume()
+gg.searchNumber("4598", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+function F14()
+gg.processResume()
+gg.searchNumber("4332", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+function F15()
+gg.processResume()
+gg.searchNumber("4066", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+function F16()
+gg.processResume()
+gg.searchNumber("3800", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.processResume()
+gg.clearResults()
+gg.toast("Activated")
+end
+
+
+function Exit()
+print("خروج ")
+gg.skipRestoreState()
+  os.exit()
+  gg.setVisible(true)
+end 
+
+while true do
+  if gg.isVisible(true) then
+    ClashServer = 1
+    gg.setVisible(false)
+  end
+  gg.clearResults()
+  if ClashServer == 1 then
+    HOME()
+ end
+ end
+------------------ᴄᴏᴘɪᴇ ᴘᴀsᴛᴇ ʏ ᴡᴇʟᴄᴏᴍᴇ------------------------
+-----------------------ɢɪᴠᴇ ᴍᴇ ᴄʀᴇᴅɪᴛ--------------------------------
+---------------------sᴜᴘᴘᴏʀᴛ ғᴏʀ ᴍᴏʀᴇ-----------------------------
+--------------------------ᴇɴᴊᴏʏ ɢᴜʏs-----------------------------------
